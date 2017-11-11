@@ -17,7 +17,7 @@ public class ZadatakBr1 {
             racun = (uplata + racun) * stopa;
         }
 
-        System.out.println("Nakon " + mjesec + " mjeseci, stanje na vasem racunu ce biti " + racun + " KM.");
+        System.out.println("Nakon " + mjesec + " mjeseci, stanje na vašem računu će biti " + racun + " KM.");
 
 	}
 }
